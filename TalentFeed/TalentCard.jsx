@@ -50,8 +50,8 @@ export default class TalentCard extends React.Component {
                         </div>
                         : 
                         <video width="100%" height="100%" controls >
-//                            <source src="" type="video/mp4" />
-//                      </video>
+                              <source src="" type="video/mp4" />
+                        </video>
                     }
                     <Card.Content >
                         <div className="ui grid">
